@@ -1,0 +1,6 @@
+This is a test file to test
+1. Branching
+2. Making changes to the local branch
+3. Pushing it to the origin
+4. Merging it with the origin/master
+5. Opening a pull request at upstream
